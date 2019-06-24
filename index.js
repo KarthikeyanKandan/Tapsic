@@ -9,7 +9,6 @@ window.addEventListener("load", () => {
         "#d3d160",
         "#6860d3",
         "#60b2d3"
-        
 ];
 
     
